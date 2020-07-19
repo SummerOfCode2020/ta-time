@@ -14,4 +14,17 @@ Add your name to request a ticket for admittance
 Add your name to request a ticket for admittance
 
  -
+
+ ## July 20th Attendees
+
+ Add your name to request a ticket for admittance
+
+ - Colleen Kingsley
+
+ ## July 27th Attendees
+
+ Add your name to request a ticket for admittance
+
+ -
+
  
