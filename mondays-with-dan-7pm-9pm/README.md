@@ -6,17 +6,39 @@ July 6th is the first Scheduled TA session with Dan
 
 Add your name to request a ticket for admittance
 
- - Erick Pacheco
- - Alejandro Maldonado
+- Erick Pacheco
+- Alejandro Maldonado
 
- ## July 13th Attendees
+## July 13th Attendees
+
+n/a
+
+## July 20th Attendees
 
 Add your name to request a ticket for admittance
 
- -Hsiang Lin (Sharon)--need to learn more about for (variable in object), recursive functions,
+- Colleen Kingsley
+- Hsiang Lin (Sharon)--go over recursive functions,  homework and question about order book
+- Alejandro Maldonado
  
- ## July 20th Attendees
+## July 27th Attendees
 
- Add your name to request a ticket for admittance
+Add your name to request a ticket for admittance
 
- -Peter Harrington -- Review Homework and classwork problems, go over reduce array method
+-
+
+## August 3rd Attendees
+
+Add your name to request a ticket for admittance
+
+- Hsiang Lin (Sharon)--need to learn more about for (variable in object), recursive functions,
+ 
+## July 20th Attendees
+
+Add your name to request a ticket for admittance
+
+-Peter Harrington -- Review Homework and classwork problems, go over reduce array method
+
+## July 27 Attendees
+
+Add your name to request a ticket for admittance
