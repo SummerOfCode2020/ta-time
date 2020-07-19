@@ -20,10 +20,7 @@ Add your name to request a ticket for admittance
 
 Add your name to request a ticket for admittance
 
-- Colleen Kingsley - review looping through arrays
-- I get out of work at 2pm, so I may not be able to hop on until 230-245 if that's okay?
-- Colleen Kingsley - homework help
-- I get out of work at 2pm, so I may not be able to hop on until 230. Thank you!
+- Colleen Kingsley - review looping through arrays, homework help -- I get out of work at 2pm, so I may not be able to hop on until 230-245 if that's okay? Thank you!
 
 ## July 28 Attendees
 
