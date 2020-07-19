@@ -15,3 +15,8 @@ Add your name to request a ticket for admittance
 
  -Hsiang Lin (Sharon)--need to learn more about for (variable in object), recursive functions,
  
+ ## July 20th Attendees
+
+ Add your name to request a ticket for admittance
+
+ -Peter Harrington -- Review Homework and classwork problems, go over reduce array method
