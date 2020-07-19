@@ -16,9 +16,10 @@ Link to recording is pending still as of 7/14.
 Add your name to request a ticket for admittance
 
  - Steph Bucharelli - brainstorm for the baseball homework assignment if that's ok.
- -Jessica Reynolds: 
+ - Jessica Reynolds: 
  *10-10-10 challenge, specifically Challenge 03
  *Discussing how to use console.log / knowing what to call for when testing
+ 
   
  
  ## July 25th Attendees

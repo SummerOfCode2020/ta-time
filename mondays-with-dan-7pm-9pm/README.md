@@ -13,5 +13,6 @@ Add your name to request a ticket for admittance
 
 Add your name to request a ticket for admittance
 
- -Hsiang Lin (Sharon)--need to learn more about for (variable in object), recursive functions,
+## July 20th Attendees
+ -Hsiang Lin (Sharon)--go over recursive functions,  homework and question about order book
  
