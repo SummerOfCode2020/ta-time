@@ -14,8 +14,18 @@ July 7th is the first Scheduled TA session with Shani
 
 Add your name to request a ticket for admittance
 
+- Sharon Lin --recursives, for...in, objKey, and 10/10/10 hw #7
+ 
+## July 21st Attendees
 
- -Sharon Lin --recursives, for...in, objKey, and 10/10/10 hw #7
+Add your name to request a ticket for admittance
 
- -Colleen Kingsley - review looping through arrays
- -I get out of work at 2pm, so I may not be able to hop on until 230-245 if that's okay?
+- Colleen Kingsley - review looping through arrays
+- I get out of work at 2pm, so I may not be able to hop on until 230-245 if that's okay?
+- Colleen Kingsley - homework help
+- I get out of work at 2pm, so I may not be able to hop on until 230. Thank you!
+
+## July 28 Attendees
+
+Add your name to request a ticket for admittance
+
