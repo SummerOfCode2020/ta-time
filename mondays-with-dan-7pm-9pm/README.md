@@ -6,12 +6,14 @@ July 6th is the first Scheduled TA session with Dan
 
 Add your name to request a ticket for admittance
 
- - Erick Pacheco
- - Alejandro Maldonado
+- Erick Pacheco
+- Alejandro Maldonado
 
- ## July 13th Attendees
+## July 13th Attendees
 
 Add your name to request a ticket for admittance
 
- -Alejandro Maldonado
+## July 20th Attendees
+- Hsiang Lin (Sharon)--go over recursive functions,  homework and question about order book
+- Alejandro Maldonado
  
