@@ -6,7 +6,7 @@ July 11th is the first scheduled Saturday with Rob
 
 ## July 11th Attendees
 
-Add your name to request a ticket for admittance
+Link to recording is pending still as of 7/14.
 
 - Colleen Kingsley - callback functions and using variables
 - Jessica Reynolds
@@ -15,15 +15,13 @@ Add your name to request a ticket for admittance
 
 Add your name to request a ticket for admittance
 
--
-
--
-
-## July 25th Attendees
+ - Steph Bucharelli - brainstorm for the baseball homework assignment if that's ok.
+ - Jessica Reynolds: 
+ *10-10-10 challenge, specifically Challenge 03
+ *Discussing how to use console.log / knowing what to call for when testing
+ 
+  
+ 
+ ## July 25th Attendees
 
 Add your name to request a ticket for admittance
-
--
-
--
- 
