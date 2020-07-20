@@ -10,7 +10,7 @@ Tickets for admittance to TA sessions must be requested at least one day in adva
 
 - [Saturdays with Rob 12pm to 2pm](saturdays-with-rob-12pm-2pm)
 
-- [Mondays with Dan 7pm to 9pm](mondays-with-dan-7pm-9pm)
+- [Mondays 7pm to 8pm](mondays-7pm-8pm)
 
 - [Tuesdays with Shani 2pm to 4pm](tuesdays-with-shani-2pm-4pm)
 
