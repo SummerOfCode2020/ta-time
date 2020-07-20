@@ -1,17 +1,6 @@
-# Mondays with Dan
+# Mondays with JR
 
-July 6th is the first Scheduled TA session with Dan
-
-## July 6th Attendees
-
-Add your name to request a ticket for admittance
-
-- Erick Pacheco
-- Alejandro Maldonado
-
-## July 13th Attendees
-
-n/a
+Dan is no longer available. JR will host this until other plans are made.
 
 ## July 20th Attendees
 
