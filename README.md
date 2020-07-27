@@ -1,6 +1,8 @@
-# The TA Schedule and Links to Recordings
+# Orderbook August - The TA Schedule and Links to Recordings
 
 This repo allows us to use github to collaborate on TA sessions.
+
+Atend at least one session a week until your order-book is complete.
 
 All TA sessions will be recorded just like class for students that are unable to attend the live session.
 
