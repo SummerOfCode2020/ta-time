@@ -6,7 +6,7 @@ Otherwise July 10th will be the first scheduled session.
 
 ## July 3rd Attendees
 
-Add your name to request a ticket for admittance
+Xavier Cody for mysql help 
 
  -
 
