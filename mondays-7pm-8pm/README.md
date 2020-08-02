@@ -13,15 +13,15 @@ Add your name to request a ticket for admittance
  
 ## July 27th Attendees
 
-Add your name to request a ticket for admittance
-
--
+none
 
 ## August 3rd Attendees
 
 Add your name to request a ticket for admittance
 
-- Hsiang Lin (Sharon)--need to learn more about for (variable in object), recursive functions,
+- Hsiang Lin (Sharon)
+-- need to learn more about for (variable in object), recursive functions, express, render, week 9 hw(some explanation)
 - Colleen Kingsley - help with homework
 - Jessica Reynolds: order book help
+
 
