@@ -1,4 +1,4 @@
-# Mondays with JR
+# Mondays with JR (until we find an available TA)
 
 Dan is no longer available. JR will host this until other plans are made.
 
@@ -22,7 +22,5 @@ Add your name to request a ticket for admittance
 Add your name to request a ticket for admittance
 
 - Hsiang Lin (Sharon)--need to learn more about for (variable in object), recursive functions,
- 
-## July 27 Attendees
+- Colleen Kingsley - help with homework
 
-Add your name to request a ticket for admittance
