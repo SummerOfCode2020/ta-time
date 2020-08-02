@@ -23,5 +23,6 @@ Add your name to request a ticket for admittance
 -- need to learn more about for (variable in object), recursive functions, express, render, week 9 hw(some explanation)
 - Colleen Kingsley - help with homework
 - Jessica Reynolds: order book help
+- Steph Bucharelli - help with the order book (will be on around 8)
 
 
