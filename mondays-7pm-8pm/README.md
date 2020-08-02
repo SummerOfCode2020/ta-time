@@ -1,4 +1,4 @@
-# Mondays with JR
+# Mondays with JR (until we find an available TA)
 
 Dan is no longer available. JR will host this until other plans are made.
 
