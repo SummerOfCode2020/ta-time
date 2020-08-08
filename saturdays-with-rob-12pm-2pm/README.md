@@ -27,3 +27,4 @@ none
 ## August 8th Attendees
 
  -Jessica Reynolds: help with order book
+ - Steph Bucharelli - help with order book if it's not too late to sign up
