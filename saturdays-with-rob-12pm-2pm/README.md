@@ -13,6 +13,13 @@ Link to recording is pending still as of 7/14.
 
 ## July 18th Attendees
 
+ ## August 8th Attendees
+
+ -Jessica Reynolds: help with order book
+ ## August 15th Attendees
+
+ - Jessica Reynolds: debug coverage
+
 Add your name to request a ticket for admittance
 
  - Steph Bucharelli - brainstorm for the baseball homework assignment if that's ok.
