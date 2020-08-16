@@ -23,3 +23,7 @@ Add your name to request a ticket for admittance
 
 - Hsiang Lin (Sharon) - express, render, week 9 hw(some explanation)
 - Colleen Kingsley - help with homework
+
+## August 17th Attendees
+
+-Sharon Lin -Homework help, like Alvin I need help with calculating input values and input that into result
