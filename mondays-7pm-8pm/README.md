@@ -26,4 +26,8 @@ Add your name to request a ticket for admittance
 - Steph Bucharelli - help with the order book (will be on around 8)
 - Nick Lavery -- HW (Pug, express) review, show what I have so far. (Orderbook) Begin implementing the pseudo code discussed in previous ta time w/ Kayla.
 
+## August 17th Attendees
 
+Add your name to request a ticket for admittance
+
+- Steph Bucharelli - help with React homework; unsure how to split up my calculator into components
