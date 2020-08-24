@@ -13,4 +13,8 @@ Add your name to request a ticket for admittance
 Add your name to request a ticket for admittance
 
  -
+
+ ## August 25th Attendees
+
+ -Deva
  
