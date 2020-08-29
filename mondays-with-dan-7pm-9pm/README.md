@@ -17,5 +17,5 @@ Add your name to request a ticket for admittance
  ## Aug 31st Attendees
  
  -Deva.
- Week 12 React App, some of the react features are not working.
+  Week 12 React App, some of the react features are not working.
  
