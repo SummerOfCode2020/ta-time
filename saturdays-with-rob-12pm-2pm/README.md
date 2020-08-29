@@ -28,3 +28,7 @@ none
 
  -Jessica Reynolds: help with order book
  - Steph Bucharelli - help with order book if it's not too late to sign up
+
+## August 29th Attendees
+
+- Steph Bucharelli - portfolio as mentioned/mongoDB connect/maybe enzyme depending on time?
