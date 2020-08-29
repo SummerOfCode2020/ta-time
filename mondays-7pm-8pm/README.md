@@ -27,3 +27,7 @@ Add your name to request a ticket for admittance
 ## August 17th Attendees
 
 -Sharon Lin -Homework help, like Alvin I need help with calculating input values and input that into result
+
+## August 29th Attendees
+
+-Sharon Lin: portfolio and personal project
