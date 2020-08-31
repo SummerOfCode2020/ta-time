@@ -14,7 +14,6 @@ Tickets for admittance to TA sessions must be requested at least one day in adva
 
 - [Mondays 7pm to 8pm](mondays-7pm-8pm)
 
-- [Tuesdays with Shani 2pm to 4pm](tuesdays-with-shani-2pm-4pm)
 
 ## Request a Ticket
 
